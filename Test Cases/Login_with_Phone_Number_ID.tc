@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_with_Phone_Number_ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ccad9ac2-3a90-4e08-8d40-b48eec1edbad</testCaseGuid>
+</TestCaseEntity>

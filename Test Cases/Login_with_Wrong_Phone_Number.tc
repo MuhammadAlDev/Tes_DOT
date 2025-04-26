@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_with_Wrong_Phone_Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61cc7ad4-7b13-454b-8b97-3460e49c9f13</testCaseGuid>
+</TestCaseEntity>
